@@ -4,5 +4,5 @@
 
 - [x] Terminal(CMD)
 - [x] Git, Github & GitBash
-- [ ] Pseudo classes & elements
+- [x] Pseudo classes & elements
 - [ ] First real block of code
