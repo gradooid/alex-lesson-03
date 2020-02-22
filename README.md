@@ -2,7 +2,7 @@
 
 ## Objectives
 
-- [ ] Terminal(CMD)
+- [x] Terminal(CMD)
 - [ ] Git, Github & GitBash
 - [ ] Pseudo classes & elements
 - [ ] First real block of code
